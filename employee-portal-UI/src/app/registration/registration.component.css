@@ -1,0 +1,31 @@
+.registration-container{
+    position: relative;
+    background: rgba(240, 248, 255, 0.5);
+    width: 600px;
+    margin:0px auto;
+    margin-top: 5%;
+    border-radius: 10px;
+}
+
+.form-master{
+    width: 86%;
+    padding-left: 14%;
+    padding-top: 5%;
+    padding-bottom: 6%;
+}
+
+.date-of-birth{
+    padding-right: 2%;
+}
+
+.form-padding{
+    padding-top: 2%;
+}
+
+.successMsg{
+    color: rgb(105, 241, 105);
+}
+
+.failureMsg{
+    color: rgb(230, 73, 73);
+}

@@ -1,0 +1,25 @@
+
+.header{
+    text-align: center
+}
+
+.option-container
+{
+    height: 400px;
+    width: 600px;
+    margin: 0px auto;
+    padding: 5px;
+    margin-top: 16%;
+}
+.registration
+{
+    height: 400px;
+    width: 48%;
+    float: left;
+}
+.employees
+{
+    height: 400px;
+    width: 28%;
+    float: right;
+}
